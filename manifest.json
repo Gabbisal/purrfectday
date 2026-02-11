@@ -1,0 +1,26 @@
+{
+  "short_name": "KattKalender",
+  "name": "Katt Kalender - Din kalender-katt",
+  "description": "En söt kalenderapp med katt-tema, chatt och anteckningar",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e8a0bf",
+  "background_color": "#fef9f5",
+  "orientation": "portrait",
+  "lang": "sv",
+  "categories": ["productivity", "utilities"]
+}
